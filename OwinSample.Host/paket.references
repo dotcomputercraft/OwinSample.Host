@@ -1,0 +1,16 @@
+﻿
+Microsoft.AspNet.WebApi.Client
+Microsoft.AspNet.WebApi.Core
+Microsoft.AspNet.WebApi.Owin
+Microsoft.AspNet.WebApi.OwinSelfHost
+Microsoft.Owin
+Microsoft.Owin.Host.HttpListener
+Microsoft.Owin.Hosting
+Microsoft.Owin.Security
+Microsoft.Owin.Security.ActiveDirectory
+Microsoft.Owin.Security.Jwt
+Microsoft.Owin.Security.OAuth
+Microsoft.WindowsAzure.ConfigurationManager
+Newtonsoft.Json
+NLog
+Owin
