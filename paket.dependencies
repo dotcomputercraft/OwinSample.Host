@@ -1,6 +1,7 @@
 source https://www.nuget.org/api/v2/
 
 nuget Nuget.CommandLine
+nuget FAKE
 nuget Microsoft.ApplicationInsights 0.9.0-build06428 framework: >= net45
 nuget Microsoft.ApplicationInsights.JavaScript 0.9.0-build06435 framework: >= net45
 nuget Microsoft.ApplicationInsights.Web 0.9.0-build06428 framework: >= net45

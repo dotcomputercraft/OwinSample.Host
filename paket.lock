@@ -1,6 +1,7 @@
 NUGET
   remote: https://www.nuget.org/api/v2
   specs:
+    FAKE (4.22.4)
     Microsoft.ApplicationInsights (0.9.0-build06428) - framework: >= net45
     Microsoft.ApplicationInsights.JavaScript (0.9.0-build06435) - framework: >= net45
     Microsoft.ApplicationInsights.Web (0.9.0-build06428) - framework: >= net45

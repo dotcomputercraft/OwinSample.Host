@@ -2,9 +2,12 @@
 
 ## Project Installation
 
-Install paket dependencies
-
+# Windows
 ````
-.paket/paket.exe restore
-.paket/paket.exe install
+build.cmd
+````
+
+# OSX
+````
+./build.sh
 ````
