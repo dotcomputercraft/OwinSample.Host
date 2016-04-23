@@ -13,7 +13,7 @@ build.cmd
 ````
 
 
-# OSX
+# ubuntu
 ````
 ./build-ubuntu.sh
 ````
