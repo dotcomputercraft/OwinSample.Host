@@ -11,3 +11,9 @@ build.cmd
 ````
 ./build.sh
 ````
+
+
+# OSX
+````
+./build-ubuntu.sh
+````
